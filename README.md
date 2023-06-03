@@ -1,1 +1,3 @@
-# IDS_projects
+# VUT FIT IDS Project
+
+Project 29/34
